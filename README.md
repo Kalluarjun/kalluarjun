@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arjun Lamichhane</h1>
 <h3 align="center">A passionate Civil Engineer exploring the power of Machine Learning to revolutionize the field of infrastructure and construction</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0JT5jTnc1aCvdq1StZzH_7&ust=1729876255961000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCl-bTBp4kDFQAAAAAdAAAAABAK](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw1bv_mmkst5HBAxbZm2bDKP&ust=1729877263466000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDqyKjFp4kDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalluarjun&label=Profile%20views&color=0e75b6&style=flat" alt="kalluarjun" /> </p>
 
