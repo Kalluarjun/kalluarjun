@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Arjun Lamichhane</h1>
+<h1 align="center">Hi , I'm Arjun Lamichhane</h1>
 <h3 align="center">A passionate Civil Engineer exploring the power of Machine Learning to revolutionize the field of infrastructure and construction</h3>
 <img align=right alt= "coding" width= "300" src= "https://github.com/Kalluarjun/kalluarjun/blob/main/visualization.png"> 
 
