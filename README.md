@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi , I'm Arjun Lamichhane</h1>
-<h3 align="center">A passionate Civil Engineer exploring the power of Machine Learning to revolutionize the field of infrastructure and construction</h3>
+<h3 align="center">A passionate Civil Engineer exploring the power of Machine Learning to revolutionize the field of civil engineering</h3>
 <img align=right alt= "coding" width= "300" src= "https://github.com/Kalluarjun/kalluarjun/blob/main/visualization.png"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalluarjun&label=Profile%20views&color=0e75b6&style=flat" alt="kalluarjun" /> </p>
